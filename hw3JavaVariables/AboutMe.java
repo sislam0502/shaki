@@ -13,7 +13,7 @@ public class AboutMe {
 	public short myHouseNumber = 13714;
 	public int myYearlySalary = 000000000;
 
-	public long myBankBalance = 00000;
+	public long myBankBalance = 00000l;
 	public float myHeight = 1.00f;
 	public double myGrade = 0.00;
 	public char sex = 'M';
